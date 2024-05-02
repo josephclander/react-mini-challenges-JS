@@ -1,6 +1,6 @@
 <img width=150px height=150px alt="React Mini Challeges Logo" src="https://github.com/josephclander/react-mini-challenges/assets/19231569/5288fb62-9209-4f5d-ba3c-006803c4f5b3" />
 
-# React Mini Challenges
+# React Mini Challenges - JS Edition
 
 A bank of React UI challenges all in one repo.
 
